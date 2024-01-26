@@ -2,7 +2,7 @@
 
 import React from 'react'
 
-import { AuthProvider } from '../_providers/Auth'
+import { AuthProvider } from './Auth'
 import { ThemeProvider } from './Theme'
 
 export const Providers: React.FC<{
