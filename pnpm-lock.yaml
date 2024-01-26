@@ -872,8 +872,8 @@ importers:
         specifier: ^3.1.0
         version: 3.1.0
       '@types/compression':
-        specifier: 1.7.2
-        version: 1.7.2
+        specifier: 1.7.5
+        version: 1.7.5
       '@types/express':
         specifier: 4.17.17
         version: 4.17.17
@@ -5909,10 +5909,10 @@ packages:
     resolution: {integrity: sha512-N+I0Iho/m1c63+g3E7ZgfGnxGZIRAoj9TUU7j8NFCt+RowqpTLQanLdcfzrCyiHtdEI2MKF1vLMgdyE5rETSnw==}
     dev: true
 
-  /@types/compression@1.7.2:
-    resolution: {integrity: sha512-lwEL4M/uAGWngWFLSG87ZDr2kLrbuR8p7X+QZB1OQlT+qkHsCPDVFnHPyXf4Vyl4yDDorNY+mAhosxkCvppatg==}
+  /@types/compression@1.7.5:
+    resolution: {integrity: sha512-AAQvK5pxMpaT+nDvhHrsBhLSYG5yQdtkaJE1WYieSNY2mVFKAgmU4ks65rkZD5oqnGCFLyQpUr1CqI4DmUMyDg==}
     dependencies:
-      '@types/express': 4.17.17
+      '@types/express': 4.17.21
     dev: true
 
   /@types/concat-stream@2.0.3:
