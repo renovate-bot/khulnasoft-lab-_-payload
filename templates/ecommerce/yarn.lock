@@ -1501,9 +1501,9 @@
     nodemailer "6.9.8"
 
 "@payloadcms/plugin-nested-docs@^1.0.8":
-  version "1.0.9"
-  resolved "https://registry.yarnpkg.com/@payloadcms/plugin-nested-docs/-/plugin-nested-docs-1.0.9.tgz#c74be3043bfabbfd8da20f0b104f48037e832e47"
-  integrity sha512-XfjKJc9xDCSn+mRpV1cOwkqwiyWaegzerjm9HUuE0xZ/JOhOxVprOmAo/+xK+TSdXkhDunJdy9V/HSGtdcHDvg==
+  version "1.0.11"
+  resolved "https://registry.yarnpkg.com/@payloadcms/plugin-nested-docs/-/plugin-nested-docs-1.0.11.tgz#8b99ead0206de676881d3b6ce46edf5c55e67e6b"
+  integrity sha512-Bh7CWNDleazNHeRZSNKO67lRnf24yHur69qP/tbbQNM2/RyanPFR2+fWOk/WO0K0/3k7IKzuMEF8n4L3eKek0w==
 
 "@payloadcms/plugin-redirects@^1.0.0":
   version "1.0.1"
@@ -1539,11 +1539,6 @@
     slate-history "0.86.0"
     slate-hyperscript "0.81.3"
     slate-react "0.92.0"
-
-"@pkgjs/parseargs@^0.11.0":
-  version "0.11.0"
-  resolved "https://registry.yarnpkg.com/@pkgjs/parseargs/-/parseargs-0.11.0.tgz#a77ea742fab25775145434eb1d2328cf5013ac33"
-  integrity sha512-+1VkjdD0QBLPodGrJUeqarH8VAIvQODIbwh9XpP5Syisf7YoQgsJKPNFoqqLQlu+VQ/tVSshMR6loPMn8U+dPg==
 
 "@polka/url@^1.0.0-next.20":
   version "1.0.0-next.24"
@@ -3186,15 +3181,6 @@ cliui@^7.0.2:
   dependencies:
     string-width "^4.2.0"
     strip-ansi "^6.0.0"
-    wrap-ansi "^7.0.0"
-
-cliui@^8.0.1:
-  version "8.0.1"
-  resolved "https://registry.yarnpkg.com/cliui/-/cliui-8.0.1.tgz#0c04b075db02cbfe60dc8e6cf2f5486b1a3608aa"
-  integrity sha512-BSeNnyus75C4//NQ9gQt1/csTXyo/8Sb+afLAkzAptFuMsod9HFokGNudZpi/oQV73hnVK+sR+5PVRMd+Dr7YQ==
-  dependencies:
-    string-width "^4.2.0"
-    strip-ansi "^6.0.1"
     wrap-ansi "^7.0.0"
 
 clone-deep@^4.0.1:
@@ -5384,15 +5370,6 @@ isomorphic-unfetch@^3.0.0:
   dependencies:
     node-fetch "^2.6.1"
     unfetch "^4.2.0"
-
-jackspeak@2.1.1:
-  version "2.1.1"
-  resolved "https://registry.yarnpkg.com/jackspeak/-/jackspeak-2.1.1.tgz#2a42db4cfbb7e55433c28b6f75d8b796af9669cd"
-  integrity sha512-juf9stUEwUaILepraGOWIJTLwg48bUnBmRqd2ln2Os1sW987zeoj/hzhbvRB95oMuS2ZTpjULmdwHNX4rzZIZw==
-  dependencies:
-    cliui "^8.0.1"
-  optionalDependencies:
-    "@pkgjs/parseargs" "^0.11.0"
 
 jest-util@^29.7.0:
   version "29.7.0"
