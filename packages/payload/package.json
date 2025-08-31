@@ -189,7 +189,7 @@
     "css-loader": "5.2.7",
     "css-minimizer-webpack-plugin": "^5.0.0",
     "file-loader": "6.2.0",
-    "form-data": "3.0.1",
+    "form-data": "3.0.4",
     "get-port": "5.1.1",
     "mini-css-extract-plugin": "1.6.2",
     "node-fetch": "2.6.12",
